@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Mon carnet de chant
 
-You can use the [editor on GitHub](https://github.com/myrddan/MonCarnetDeChant/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Qui n'a jamais eu envie de lancer une petite chanson mais n'a pas osé de peur de se tromper dans les parôles.
+Le carnet de chant est au fond d'un tiroir et on n'a avec soit qu'un couteau, de la grillade, un verre de rosée et son télephone.
+L'idée m'est donc venu de proposer une petite application android afin d'aoir toujours avec soit ces chants favoris.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Je comence juste ce petit projet et un jours peut-être il sera finit.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/myrddan/MonCarnetDeChant/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
